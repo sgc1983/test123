@@ -4,15 +4,3 @@
   "article" : {        
       "en" : { 
         "content" : "**IMPORTANT UPDATE: WhatsApp Business Platform Pricing**\n\n**Dear Valued Customers,**\nWe would like to share some important news regarding upcoming changes to the pricing model for the WhatsApp Business Platform as announced by Meta for 2024 and 2025.\n\nTo understand how these changes may affect your business, we encourage you to visit Meta's support page for detailed  information:\n\n**LINK: [WhatsApp Business Platform Pricing Updates](https://developers.facebook.com/docs/whatsapp/pricing/updates-to-pricing#pricing-updates-on-the-whatsapp-business-platform)**\n\nThank you for your continuous support and trust!"
-      },        
-      "zh-hant" : {
-        "content" : "**重要更新：WhatsApp 商業平台的定價**\n\n**親愛尊貴的客戶您好，**\nMeta宣佈了2024年和2025年WhatsApp商業平台的定價模式即將發生改變。\n\n為了解這些改變會如何影響您的業務，我們鼓勵您訪問Meta的支援頁面，以獲得更詳細的資訊：\n\n**連結：[WhatsApp 商業平台的定價](https://developers.facebook.com/docs/whatsapp/pricing/updates-to-pricing#pricing-updates-on-the-whatsapp-business-platform)**\n\n感謝您一直以來的支持和信任！"
-      },
-      "zh-hans" : {
-        "content" : "**重要更新：WhatsApp 商务平台的定价**\n\n**尊敬的客户您好，**\nMeta宣布了2024年和2025年WhatsApp商务平台的定价模式即将发生變更。\n\n为了解这些变化对您的业务有何影响，我们建议您访问 Meta 支持页面了解详细信息：\n\n**链接：[WhatsApp 商务平台的定价](https://developers.facebook.com/docs/whatsapp/pricing/updates-to-pricing#pricing-updates-on-the-whatsapp-business-platform)**\n\n感谢您一直以来的支持和信任！"
-      },
-      "ja" : {
-        "content" : "**重要な更新: WhatsApp Business Platform の価格**\n\n**お客様各位、**\nMeta が発表した 2024 年と 2025 年の WhatsApp Business Platform の価格モデルの変更に関する重要なニュースをお知らせします。\n\nこれらの変更がお客様のビジネスにどのような影響を与えるかを理解するには、Meta のサポート ページで詳細情報を確認することをお勧めします。\n\n**リンク: [WhatsApp Business Platform の価格更新](https://developers.facebook.com/docs/whatsapp/pricing/updates-to-pricing#pricing-updates-on-the-whatsapp-business-platform)**\n\n引き続きご支援とご信頼をいただき、ありがとうございます。"
-      }    
-   }
-}

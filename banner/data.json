@@ -13,19 +13,3 @@
   "defaultLanguage": "en",
   "type": "banner",
   "article": {
-    "en": {
-      "content": "IMPORTANT UPDATE: Changes to WhatsApp Business Platform Pricing. Find out more from CINNOXBot!"
-    },
-    "zh-hant": {
-      "content": "重要更新： WhatsApp 商業平台的定價變更。請在 CINNOXBot 瞭解更多資訊！"
-    },
-    "zh-hans": {
-      "content": "重要更新：WhatsApp 商务平台的定价变更。请从 CINNOXBot 了解更多信息！"
-    },
-    "ja": {
-      "content": "重要な更新: WhatsApp Business プラットフォームの価格設定が変更されました。詳細については、CINNOXBot をご覧ください。"
-    }
-  },
-  "startTime":"2024-11-13T06:00:00.000Z",
-  "endTime":"2024-11-20T10:00:00.000Z"
-}
